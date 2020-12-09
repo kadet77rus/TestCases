@@ -1,1 +1,0 @@
-# $redirect rules test 
